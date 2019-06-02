@@ -1,0 +1,1 @@
+{"image": "vuvko/liveness", "entrypoint": "python3 predict.py --path-images-csv $PATH_INPUT/meta.csv --path-test-dir $PATH_INPUT --path-submission-csv $PATH_OUTPUT/solution.csv"}
